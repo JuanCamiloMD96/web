@@ -1,0 +1,637 @@
+body{
+    max-width: 100%;
+    min-width: 100%;
+}
+#ul-nav{
+    margin-left: 400px;
+}
+
+#c1{
+    width: 100%;
+    height: 500px !important;
+    
+}
+
+#c2{
+    margin-top: 30px;
+    width: 100%;
+    
+}
+
+#logo{
+    width: 100px;
+    height: 100px;
+    margin-right: 350px;
+
+}
+
+#nav-p{
+    padding-top: 60px;
+    font-family: serif;
+    font-weight: bold;
+
+}
+
+#t-1{
+    margin-top: 40px;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 15px;
+}
+#p1{
+    margin-top: 60px;
+
+}
+
+#t2{
+    font-family: serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+
+#img-t2{
+    margin-top: 80px;
+    margin-right: 90px;
+    width: 300px;
+    height: 400px;
+}
+
+#img-t3{
+    margin-top: 160px;
+    margin-left: -200px;
+    width: 300px;
+    height: 400px;
+}
+
+#what{
+    margin-top: 40px;
+    margin-left: -130px;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+#what-p{
+    text-align: left;
+    
+}
+#sec-inf{
+    width: 100%;
+}
+
+#row-100{
+    width: 100%;
+}
+
+#a-boton{
+    color: gray;
+}
+#a-boton:hover{
+    color:black ;
+}
+#b-2{
+    margin-left: -130px;
+}
+
+
+
+  
+
+#logo-2-index{
+    width: 400px;
+    height: 400px;
+    margin-top: -900px;
+    margin-left: 450px;
+
+}
+#boton-p{
+    margin-top: 50px;
+    margin-left: 620px;
+    color: gray;
+}
+#div-int{
+    margin-top: 50px;
+}
+#p-int{
+    font-family: serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#i-int{
+    color: brown;
+ }
+#i-int:hover{
+    color:black;
+}
+
+#img-int{
+    width: 200px;
+    height: 200px;
+    margin-left: 15px;
+}
+#div-int-2{
+    margin-top: 30px;
+    align-items: center;
+    
+}
+
+#img-4{
+    margin-top: 50px;
+}
+
+
+#cont-form{
+    background-image: url("img/index-img-4.jpg");
+    background-attachment:inherit;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin-top: 30px;
+    padding: 20px;
+    height: 600px;
+    
+}
+.form-group{
+    margin:15px 0px;
+}
+.form-group label{
+    margin-bottom: 10px;
+}
+
+#div-form{
+    margin-top: 100px;
+    color: white;
+}
+footer{
+    background-color: black;
+}
+
+#footer-st{
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+#footer-st-div-1{  
+    text-align: center;
+    margin-top: 50px;
+    color:gray;
+}
+
+#i-int-2{
+    color: brown;
+    
+ }
+
+#i-int-2:hover{
+    color:white;
+
+} 
+
+#logo-footer{
+    width: 180px;
+    height: 180px;
+    margin-top: 20px;
+    margin: auto;
+}
+#footer-logo-div{
+    text-align: center;
+}
+
+
+#p-footer{
+    margin-top: 70px;
+}
+
+
+#footer-others{
+    width: 100%;
+    height: 230px;
+    margin-top:40px;
+    background-color: black;
+}
+
+#p-about{
+    position: relative;
+    margin-top: -600px;
+   
+}
+#t-1-about{
+    text-align: center;
+    font-size: 80px;
+    font-family: serif;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+
+}
+#footer-st-2{
+    width: 100%;
+    height: auto;
+    background-color: black;
+    margin-top: 30px;
+}
+#control{
+    width: 100%;
+}
+#what-p-about-1{
+    text-align: left;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+#what-p-about-1-1{
+    text-align: left;
+    margin-right: 100px;
+    
+}
+#what-p-about-2{
+    text-align: left;
+    margin-left: 130px;
+    margin-top: 100px;
+}
+#p-1-about{
+    font-family: serif;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin-top: 30px;
+}
+#div-int-3{
+    position: relative;
+    margin-top: 50px;
+}
+
+#img-about{
+    width:400px;
+    height: 600px;
+    margin-left: 100px;
+}
+
+#about-cont{
+    position: relative;
+    margin-top: 500px;
+    width: 100%;
+}
+
+#what-p-3{
+    text-align: left;
+    margin-left: 0px;
+}
+
+#t-1-servi{
+    text-align: center;
+    font-size: 80px;
+    font-family: serif;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    margin-top: 70px;
+
+}
+#p-1-servi{
+    font-family: serif;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    
+}
+
+#t-servi{
+    margin-top: 20px;
+    font-family: serif;
+    font-weight: bold;
+}
+
+#img-servi{
+    width:400px;
+    height: 600px;
+    margin-top: 31px;
+}
+#img-servi-1{
+    width:400px;
+    height: 600px;
+    margin-top: 30px;
+}
+
+#img-servi-2{
+    width:400px;
+    height: 600px;
+    margin-top: 31px;
+}
+
+#div-por-1{
+    height: 400px;
+    margin-top: 40px;
+}
+
+#div-int-4{
+    margin-top: 450px;
+}
+#div-int-5{
+    margin-top: 50px;
+}
+
+#carouselExampleInterval{
+    height: 500px;
+}
+
+#t-5{
+    margin-top: 40px;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+}
+
+@media screen and (max-width: 320px) {
+    #what,#what-p,#b-2{
+        margin-left: 0 !important;
+    }
+    #logo{
+        margin-left: 100px;
+    }
+    #ul-nav{
+        margin-left: 0px;
+    }
+    #img-t2{
+        width: 150px;
+        height: 200px;
+    }
+    #img-t3{
+        width: 150px;
+        height: 200px;
+        margin-left: 100px;
+        margin-top: -130px;
+    }
+
+    #div-int{
+        margin-top: 20px !important;
+
+    }
+
+    #p-int{
+        font-size: 30px !important;
+    }
+    #img-int{
+        
+        width: 200px;
+        height: 200px;
+        margin-top: 15px;
+        margin-left: 50px !important;
+
+    }
+
+    #div-form{
+        background-image: url("img/index-img-4.jpg");
+        background-attachment:fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
+
+    #logo-footer{
+        margin-left: 70px;
+        width: 100px;
+        height: 100px;
+    }
+    #footer-st-div-1{
+    position: relative;
+    margin-top: 100px;
+   
+    color:gray;
+    }
+    #p-footer{
+        text-align: center;
+    }
+    #logo-2-index{
+
+        width: 100px !important;
+        height: 100px !important;
+        margin-top: -250px !important;
+        margin-left: 120px !important;
+
+    }
+
+    #boton-p{
+        margin-top: 20px !important;
+        margin-left: 100px !important;
+    }  
+
+    #about-cont{
+        margin-top: 100px !important;
+    }
+
+    #p-about{
+        margin-top: -150px !important;
+       
+    }
+    
+    #t-1-about{
+        text-align: center;
+        font-size: 30px !important;
+        font-family: serif;
+        font-weight: bold;
+        color: rgb(0, 0, 0);
+    
+    }
+
+    #p-1-about{
+        font-family: serif;
+        text-align: center;
+        font-size: 10px !important;
+        color: rgb(0, 0, 0);
+        margin-top: 30px;
+    }
+    #img-about{
+        width:250px !important;
+        height: 300px !important;
+        margin-left: 25px !important;
+        margin-top: 0px !important;
+    }
+    #what-p-about-1{
+        text-align: center !important;
+        margin-right: 0 !important;
+
+    }
+    #what-p-about-1-1{
+        text-align:center !important;
+        margin-right: 0 !important;
+        
+    }
+    #what-p-about-2{
+        text-align: center !important;
+        margin-left: 15px !important;
+    }
+
+    #img-servi-1{
+        width: 250px !important;
+        height: 350px !important;
+        margin-left: 25px;
+    }
+    #img-servi-2{
+        width: 250px !important;
+        height: 350px !important;
+        margin-top: 20px !important;
+        margin-left: 25px;
+    }
+
+    #img-servi{
+        width: 250px !important;
+        height: 350px !important;
+        margin-top: 20px !important;
+        margin-left: 25px;
+    }
+
+    #div-int-4{
+        margin-top: -20px !important;
+    }
+
+
+  }
+
+
+@media screen and (width: 768px) {
+
+   
+    #logo{
+        margin-left: 300px;
+    }
+    #ul-nav{
+        margin-left: 0px;
+    }
+    #img-t2{
+        width: 150px;
+        height: 200px;
+    }
+    #img-t3{
+        width: 150px;
+        height: 200px;
+        margin-left: 100px;
+        margin-top: -130px;
+    }
+
+    #div-int{
+        margin-top: 20px !important;
+
+    }
+
+    #p-int{
+        font-size: 30px !important;
+    }
+    #img-int{
+        
+        width: 200px;
+        height: 200px;
+        margin-top: 15px;
+        margin-left: 30px !important;
+
+    }
+
+    #div-form{
+        background-image: url("img/index-img-4.jpg");
+        background-attachment:fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
+
+    #logo-footer{
+        margin-left: 70px;
+        width: 100px;
+        height: 100px;
+    }
+    #footer-st-div-1{
+    position: relative;
+    margin-top: 100px;
+   
+    color:gray;
+    }
+    #p-footer{
+        text-align: center;
+    }
+    #logo-2-index{
+
+        width: 100px !important;
+        height: 100px !important;
+        margin-top: -250px !important;
+        margin-left: 120px !important;
+
+    }
+    #boton-p{
+        margin-top: 20px !important;
+        margin-left: 300px !important;
+    }  
+
+    #about-cont{
+        margin-top: 300px !important;
+    }
+
+    #p-about{
+        margin-top: -150px !important;
+       
+    }
+    
+    #t-1-about{
+        text-align: center;
+        font-size: 60px !important;
+        font-family: serif;
+        font-weight: bold;
+        color: rgb(0, 0, 0);
+        margin-top: -350px;
+    
+    }
+
+    #p-1-about{
+        font-family: serif;
+        text-align: center;
+        font-size: 10px !important;
+        color: rgb(0, 0, 0);
+        margin-top: 10px;
+    }
+    #img-about{
+        width:250px !important;
+        height: 300px !important;
+        margin-left: 25px !important;
+        margin-top: 0px !important;
+    }
+    #what-p-about-1{
+        text-align: center !important;
+        margin-right: 0 !important;
+
+    }
+    #what-p-about-1-1{
+        text-align:center !important;
+        margin-right: 0 !important;
+        
+    }
+    #what-p-about-2{
+        text-align: center !important;
+        margin-left: 15px !important;
+    }
+
+    #img-servi-1{
+        width: 220px !important;
+        height: 350px !important;
+        margin-top: 20px;
+    }
+    #img-servi-2{
+        width: 220px !important;
+        height: 350px !important;
+        margin-top: 20px !important;
+        
+    }
+
+    #img-servi{
+        width: 220px !important;
+        height: 350px !important;
+        margin-top: 20px !important;
+       
+    }
+
+    #div-int-4{
+        margin-top: 160px !important;
+    }
+
+}
